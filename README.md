@@ -55,6 +55,11 @@ This dashboard transforms raw hospital data into actionable business insights to
 - Excel Dataset
 ## 📸 Dashboard Screenshots
 
-### 🏠 Monthly View
+### 🏠 Monthly View 
+https://github.com/Abhishekvjadav/Hospital-ER-Dashboard/blob/main/Monthly%20View.png
+
 ### 📊 Consolidated View
-### 👤 Patient Details
+https://github.com/Abhishekvjadav/Hospital-ER-Dashboard/blob/main/Consolidated%20View.png
+
+### 👤 Patient Details 
+https://github.com/Abhishekvjadav/Hospital-ER-Dashboard/blob/main/Patient%20Details.png
